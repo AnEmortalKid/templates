@@ -11,6 +11,7 @@ The current version of OpenFaaS templates use the original `watchdog` which `for
 ### Templates Developers / Contributors
 
 See [contributing guide](https://github.com/openfaas/template/blob/master/CONTRIBUTING.md).
+See [template guide](https://github.com/openfaas/faas-cli/blob/master/guide/TEMPLATE.md)
 
 ### License
 
